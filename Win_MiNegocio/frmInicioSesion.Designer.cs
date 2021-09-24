@@ -36,7 +36,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
             this.Name = "frmInicioSesion";
-            this.Text = "Inicio de Sesión";
+            this.Text = "Inicio de Sesion";
             this.ResumeLayout(false);
 
         }
